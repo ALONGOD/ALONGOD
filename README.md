@@ -31,9 +31,11 @@
 ### 📫 Connect with Me:
 <table>
   <tr>
-    <td><a href="mailto:alongoddard1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a> alongoddard1@gmail.com</td>
+    <td><a href="mailto:alongoddard1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a></td>
+    <td><a href="mailto:alongoddard1@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">alongoddard1@gmail.com</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/in/alon-goddard/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a> LinkedIn Profile</td>
+    <td><a href="https://www.linkedin.com/in/alon-goddard/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
+    <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">LinkedIn Profile</a></td>
   </tr>
 </table>
