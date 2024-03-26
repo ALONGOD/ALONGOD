@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hi, I'm Alon Goddard
+Full Stack / Frontend Developer
+HTML CSS SASS JavaScript jQuery React Angular Vue.js Node.js PHP MongoDB SQL
 
-<!--
-**ALONGOD/ALONGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌟 About Me:
+🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
+🔗 Check out my final project inspired by Monday.com: MyDay.
+🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Portfolio Highlights:
+Space invaders
+Meme generator
+
+📫 Connect with Me:
+Gmail	alongoddard1@gmail.com
+LinkedIn	LinkedIn Profile
