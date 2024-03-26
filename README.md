@@ -18,15 +18,15 @@
 
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
-- 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 - 🔗 Check out my final project inspired by Monday.com: [MyDay](url).
 - ⚛ Currently working as a freelancer specializing in custom websites for small businesses.
+- 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
 ### 🔍 Portfolio Highlights:
-- [Space Invaders]()
-- [Meme Project]()
 - [MyDay]()
 - [Gmail-clone]()
+- [Meme Project](alongod.github.io/Meme-generator/)
+- [Space Invaders](alongod.github.io/Space-Invaders/)
 
 ### 📫 Connect with Me:
 <table>
