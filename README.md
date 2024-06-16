@@ -36,6 +36,6 @@
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/alon-goddard/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
-    <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">LinkedIn Profile</a></td>
+    <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
   </tr>
 </table>
