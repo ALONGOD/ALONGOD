@@ -24,8 +24,8 @@
 
 ### 🔍 Portfolio Highlights:
 - [MyDay]()
-- [Gmail-clone]()
-- [Meme Project]([alongod.github.io/Meme-generator/](https://alongod.github.io/Meme-generator/))
+- [Gmail-clone](https://alongod.github.io/ALONGOD-Idan-and-Alon-sprint-3-/)
+- [Meme Project](https://alongod.github.io/Meme-generator/))
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
 
 ### 📫 Connect with Me:
