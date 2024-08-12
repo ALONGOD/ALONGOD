@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+<!--   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
 </p>
