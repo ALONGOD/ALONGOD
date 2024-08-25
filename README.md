@@ -18,12 +18,12 @@
 
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
-- 🔗 Check out my final project inspired by Monday.com: [MyDay](url).
+- 🔗 Check out my final project inspired by Spotify: [Groovify](url).
 - ⚛ Currently working as a freelancer specializing in custom websites for small businesses.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
 ### 🔍 Portfolio Highlights:
-- [MyDay]()
+- [Groovify]()
 - [Gmail-clone](https://alongod.github.io/ALONGOD-Idan-and-Alon-sprint-3-/)
 - [Meme Project](https://alongod.github.io/Meme-generator/)
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
