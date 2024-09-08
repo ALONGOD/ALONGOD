@@ -24,7 +24,7 @@
 
 ### 🔍 Portfolio Highlights:
 - [Groovify]()
-- [Gmail-clone](https://alongod.github.io/ALONGOD-Idan-and-Alon-sprint-3-/)
+- [Gmail-clone](https://alongod.github.io/Gmail-clone/)
 - [Meme Project](https://alongod.github.io/Meme-generator/)
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
 
