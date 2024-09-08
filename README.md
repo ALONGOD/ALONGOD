@@ -19,7 +19,7 @@
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
 - 🔗 Check out my final project inspired by Spotify: [Groovify](url).
-- ⚛ Currently working as a freelancer specializing in custom websites for small businesses.
+- ⚛ Currently working as a Full Stack Developer at Pizi, building scalable AI-powered solutions from backend to frontend.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
 ### 🔍 Portfolio Highlights:
