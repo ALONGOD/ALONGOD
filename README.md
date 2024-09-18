@@ -18,12 +18,12 @@
 
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
-- 🔗 Check out my final project inspired by Spotify: [Groovify](url).
+- 🔗 Check out my final project inspired by Spotify: [Groovify](https://groovify-backend-3393.onrender.com).
 - ⚛ Currently working as a Full Stack Developer at Pizi, building scalable AI-powered solutions from backend to frontend.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
 ### 🔍 Portfolio Highlights:
-- [Groovify]()
+- [Groovify](https://groovify-backend-3393.onrender.com)
 - [Gmail-clone](https://alongod.github.io/Gmail-clone/)
 - [Meme Project](https://alongod.github.io/Meme-generator/)
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
