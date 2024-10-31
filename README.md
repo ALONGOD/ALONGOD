@@ -28,15 +28,7 @@
 - [Meme Project](https://alongod.github.io/Meme-generator/)
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALONGOD" alt="ALONGOD" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&locale=en" alt="ALONGOD" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALONGOD&show_icons=true&locale=en&layout=compact" alt="ALONGOD" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
 </p>
