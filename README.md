@@ -32,6 +32,67 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
 </p>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ALONGOD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALONGOD&theme=dracula" alt="GitHub Trophies" /></a>
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALONGOD&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ALONGOD&theme=radical&hide_border=true" alt="Contribution Streak" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ALONGOD&bg_color=ffffff&color=000000&line=ff5555&point=007bff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Wakatime Stats (If applicable, remove if not using Wakatime) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ALONGOD&theme=radical" alt="Wakatime Stats" />
+</p>
+
+<!-- GitHub Skyline -->
+<p align="center">
+  <a href="https://skyline.github.com/ALONGOD/2023"><img src="https://img.shields.io/badge/GitHub%20Skyline-2023-orange?style=for-the-badge" alt="GitHub Skyline" /></a>
+</p>
+
+<!-- Recent Activity -->
+<h3 align="center">Recent GitHub Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- Dynamic Quotes -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</p>
+
+<!-- Badges for Skills and Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+</p>
+
+<!-- GitHub Metrics (Optional) -->
+<p align="center">
+  <img src="https://github.com/ALONGOD/ALONGOD/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 ### 📫 Connect with Me:
 <table>
