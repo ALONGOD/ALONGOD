@@ -37,6 +37,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALONGOD&show_icons=true&locale=en&layout=compact" alt="ALONGOD" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
+</p>
 
 ### 📫 Connect with Me:
 <table>
