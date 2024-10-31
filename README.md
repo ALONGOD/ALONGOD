@@ -45,7 +45,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
 </p>
 
-<!-- Dynamic Quotes -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=GrayWhite" alt="Quotes" />
-</p>
