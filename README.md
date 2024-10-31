@@ -29,16 +29,6 @@
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
-</p>
-
-<!-- Dynamic Quotes -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-</p>
-
-
 ### 📫 Connect with Me:
 <table>
   <tr>
@@ -50,3 +40,12 @@
     <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
+</p>
+
+<!-- Dynamic Quotes -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=GrayWhite" alt="Quotes" />
+</p>
