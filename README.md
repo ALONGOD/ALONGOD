@@ -16,6 +16,10 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
+</p>
+
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
 - 🔗 Check out my final project inspired by Spotify: [Groovify](https://groovify-backend-3393.onrender.com).
@@ -41,7 +45,5 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
-</p>
+
 
