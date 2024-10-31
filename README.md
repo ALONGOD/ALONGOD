@@ -29,7 +29,7 @@
 - [Space Invaders](https://alongod.github.io/Space-Invaders/)
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
 </p>
 
