@@ -38,17 +38,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
 
-<!-- Badges for Skills and Tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
-</p>
-
-<!-- GitHub Metrics (Optional) -->
-<p align="center">
-  <img src="https://github.com/ALONGOD/ALONGOD/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
 
 ### 📫 Connect with Me:
 <table>
