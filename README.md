@@ -16,19 +16,11 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALONGOD" alt="ALONGOD" />
-</p>
-
 ### 🌟 About Me:
 - 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
 - 🔗 Check out my final project inspired by Spotify: [Groovify](https://groovify-backend-3393.onrender.com).
 - ⚛ Currently working as a Full Stack Developer at Pizi, building scalable AI-powered solutions from backend to frontend.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
