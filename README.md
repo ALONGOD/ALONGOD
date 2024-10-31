@@ -26,6 +26,10 @@
 - ⚛ Currently working as a Full Stack Developer at Pizi, building scalable AI-powered solutions from backend to frontend.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
 - [Gmail-clone](https://alongod.github.io/Gmail-clone/)
