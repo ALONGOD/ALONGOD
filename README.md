@@ -8,9 +8,9 @@
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-    <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
+<!--     <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/> -->
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/>
+<!--   <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/> -->
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
