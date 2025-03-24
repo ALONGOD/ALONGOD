@@ -4,16 +4,19 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+    <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
 <!--   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/> -->
 </p>
 
 ### 🌟 About Me:
