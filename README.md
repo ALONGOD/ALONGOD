@@ -28,9 +28,8 @@
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
 - [Gmail-clone](https://alongod.github.io/Gmail-clone/)
-- [Space Invaders](https://alongod.github.io/Space-Invaders/)
-  
 <!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
+<!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
 
 ### 📫 Connect with Me:
