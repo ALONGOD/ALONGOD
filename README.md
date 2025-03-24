@@ -17,9 +17,9 @@
 </p>
 
 ### 🌟 About Me:
-- 🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
+- 🎓 Graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
 - 🔗 Check out my final project inspired by Spotify: [Groovify](https://groovify-backend-3393.onrender.com).
-- ⚛ Currently working as a Full Stack Developer at Pizi, building scalable AI-powered solutions from backend to frontend.
+- ⚛ Currently working as a Full Stack Developer at INU, building a scalable dog services platform with React, Next.js, TypeScript, Node.js, and AWS.
 - 🧘‍♂️ Passionate about people, animals, Vipassana meditation, and fitness.
 
 ### 🔍 Portfolio Highlights:
