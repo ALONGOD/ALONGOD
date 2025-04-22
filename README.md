@@ -1,22 +1,21 @@
 <h1 align="center">👋 Hi, I'm Alon Goddard</h1>
-<h2 align="center">Full Stack / Frontend Developer</h2>
+<h2 align="center">
+  <span id="jobTitle">Full Stack / Frontend Developer</span>
+  <span id="typingEffect" style="color: #5c9e5b;">Full Stack Developer | Frontend Engineer | Backend Engineer</span>
+</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-<!--     <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/> -->
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
-<!--   <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/> -->
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-<!--   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/> -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-<!--   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/> -->
 </p>
 
 ### 🌟 About Me:
@@ -28,57 +27,10 @@
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
 - [Gmail-clone](https://alongod.github.io/Gmail-clone/)
-<!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
-<!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
 ### 📊 GitHub Stats:
 ![All-Time Commits](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
 ![Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=ALONGOD&repo=pull-requests)
-
-### 💻 My Role:
-<div class="typed-container">
-  <p class="typed-text">Full Stack Developer</p>
-  <p class="typed-text">Frontend Engineer</p>
-  <p class="typed-text">Backend Engineer</p>
-</div>
-
-<style>
-  .typed-container {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-  }
-
-  .typed-text {
-    display: none;
-    animation: typing 2s steps(30) 1s infinite alternate;
-  }
-
-  .typed-text:nth-child(1) {
-    display: block;
-    animation-delay: 0s;
-  }
-
-  .typed-text:nth-child(2) {
-    display: block;
-    animation-delay: 2s;
-  }
-
-  .typed-text:nth-child(3) {
-    display: block;
-    animation-delay: 4s;
-  }
-
-  @keyframes typing {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 100%;
-    }
-  }
-</style>
-
 
 ### 📫 Connect with Me:
 <table>
@@ -91,6 +43,4 @@
     <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
   </tr>
 </table>
-
-
 
