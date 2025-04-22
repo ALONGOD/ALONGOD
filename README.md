@@ -31,6 +31,21 @@
 <!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
 <!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
+### 📊 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ALONGOD&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&count_private=true&hide_title=true)
+
+### 💻 My Role:
+<p class="role">Full Stack Developer</p>
+<script>
+  const roles = ['Full Stack Developer', 'Frontend Engineer', 'Backend Engineer'];
+  let index = 0;
+  setInterval(() => {
+    document.querySelector('.role').textContent = roles[index];
+    index = (index + 1) % roles.length;
+  }, 2000);
+</script>
+
 
 ### 📫 Connect with Me:
 <table>
@@ -41,6 +56,10 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/alon-goddard/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
     <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/ALONGOD"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="vertical-align: middle;" /></a></td>
+    <td><a href="https://github.com/ALONGOD" style="vertical-align: middle; text-decoration: none; color: black;">ALONGOD</a></td>
   </tr>
 </table>
 
