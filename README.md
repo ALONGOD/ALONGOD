@@ -32,19 +32,52 @@
 <!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
 ### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ALONGOD&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&count_private=true&hide_title=true)
+![All-Time Commits](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
+![Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=ALONGOD&repo=pull-requests)
 
 ### 💻 My Role:
-<p class="role">Full Stack Developer</p>
-<script>
-  const roles = ['Full Stack Developer', 'Frontend Engineer', 'Backend Engineer'];
-  let index = 0;
-  setInterval(() => {
-    document.querySelector('.role').textContent = roles[index];
-    index = (index + 1) % roles.length;
-  }, 2000);
-</script>
+<div class="typed-container">
+  <p class="typed-text">Full Stack Developer</p>
+  <p class="typed-text">Frontend Engineer</p>
+  <p class="typed-text">Backend Engineer</p>
+</div>
+
+<style>
+  .typed-container {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .typed-text {
+    display: none;
+    animation: typing 2s steps(30) 1s infinite alternate;
+  }
+
+  .typed-text:nth-child(1) {
+    display: block;
+    animation-delay: 0s;
+  }
+
+  .typed-text:nth-child(2) {
+    display: block;
+    animation-delay: 2s;
+  }
+
+  .typed-text:nth-child(3) {
+    display: block;
+    animation-delay: 4s;
+  }
+
+  @keyframes typing {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+</style>
 
 
 ### 📫 Connect with Me:
@@ -56,10 +89,6 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/alon-goddard/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" /></a></td>
     <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/ALONGOD"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="vertical-align: middle;" /></a></td>
-    <td><a href="https://github.com/ALONGOD" style="vertical-align: middle; text-decoration: none; color: black;">ALONGOD</a></td>
   </tr>
 </table>
 
