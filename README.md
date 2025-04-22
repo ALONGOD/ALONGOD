@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Alon Goddard</h1>
+
 <h2 align="center">
-  <span id="jobTitle">Full Stack / Frontend Developer</span>
-  <span id="typingEffect" style="color: #5c9e5b;">Full Stack Developer | Frontend Engineer | Backend Engineer</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%93%99;Frontend+Developer+%F0%9F%92%BB;Backend+Engineer+%F0%9F%94%A5;Tech+Lover+%F0%9F%9A%80;Code+Enthusiast+%F0%9F%98%81" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -27,10 +27,8 @@
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
 - [Gmail-clone](https://alongod.github.io/Gmail-clone/)
-
-### 📊 GitHub Stats:
-![All-Time Commits](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)
-![Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=ALONGOD&repo=pull-requests)
+<!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
+<!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
 ### 📫 Connect with Me:
 <table>
@@ -43,4 +41,3 @@
     <td><a href="https://www.linkedin.com/in/alon-goddard/" style="vertical-align: middle; text-decoration: none; color: black;">Alon Goddard</a></td>
   </tr>
 </table>
-
