@@ -30,6 +30,8 @@
 <!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
 <!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
 
+![Alon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALONGOD&show_icons=true&theme=tokyonight)
+
 ### 📫 Connect with Me:
 <table>
   <tr>
