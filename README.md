@@ -23,7 +23,7 @@
 - 🚀 Experienced working independently and in teams with ownership across architecture, development, and deployment, from planning and design through implementation, testing, release, ensuring scalable and maintainable real-world solutions.
 - 🎵 Interested in technology, product, music, fitness, and animals (dog person 🐕).
 
-### 🔍 Portfolio Highlights:
+### 🔍 Projects I Built End-to-End
 - [Yadealer Market](https://yadealer.market)
 - [Esekal](https://esekal.com)
 
