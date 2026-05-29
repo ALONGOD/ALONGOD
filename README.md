@@ -19,10 +19,9 @@
 </p>
 
 ### 🌟 About Me:
-- 🎓 Graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.
-- 🔗 Check out my final project inspired by Spotify: [Groovify](https://groovify-backend-3393.onrender.com).
-- 🐕  Currently working as a Full Stack Developer at INU, building a scalable dog services platform from Frontend to Backend.
-- 🎵 Passionate about people, animals, music and fitness.
+- 💻 Full Stack Developer building scalable production-ready products end-to-end.
+- 🚀 Experienced working both independently and in collaborative teams, with full ownership across architecture, development, and deployment.
+- 🎵 Interested in technology, product, music, fitness, and animals (dog person 🐕).
 
 ### 🔍 Portfolio Highlights:
 - [Groovify](https://groovify-backend-3393.onrender.com)
