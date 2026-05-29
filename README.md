@@ -20,7 +20,7 @@
 
 ### 🌟 About Me:
 - 💻 Full Stack Developer building scalable production-ready products end-to-end.
-- 🚀 Experienced working independently and in collaborative teams, with ownership across architecture, development, and deployment, from planning and design through implementation, testing, and release, ensuring scalable and maintainable real-world solutions.
+- 🚀 Experienced working independently with ownership across architecture, development, and deployment, from planning and design through implementation, testing, release, ensuring scalable and maintainable real-world solutions.
 - 🎵 Interested in technology, product, music, fitness, and animals (dog person 🐕).
 
 ### 🔍 Portfolio Highlights:
