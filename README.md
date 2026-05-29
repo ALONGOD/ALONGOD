@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498db&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%93%99;Backend+Engineer+%F0%9F%94%A5;Frontend+Specialist+%F0%9F%92%BB;Tech+Lover+%F0%9F%9A%80;Code+Enthusiast+%F0%9F%98%81" alt="Typing SVG" />
 </h2>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Production-Ready+Engineer+%F0%9F%9B%A0%EF%B8%8F;Building+Scalable+Systems+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%A1;Taking+Ownership%2C+Driving+Scale+%F0%9F%93%88" alt="Typing SVG" />
+</h2>
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
