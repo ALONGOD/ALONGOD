@@ -24,10 +24,8 @@
 - 🎵 Interested in technology, product, music, fitness, and animals (dog person 🐕).
 
 ### 🔍 Portfolio Highlights:
-- [Groovify](https://groovify-backend-3393.onrender.com)
-- [Gmail-clone](https://alongod.github.io/Gmail-clone/)
-<!-- - [Meme Project](https://alongod.github.io/Meme-generator/) -->
-<!-- - [Space Invaders](https://alongod.github.io/Space-Invaders/) -->
+- [Yadealer Market](https://yadealer.market)
+- [Esekal](https://esekal.com)
 
 ### 📫 Connect with Me:
 <table>
